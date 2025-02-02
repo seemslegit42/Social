@@ -1,8 +1,6 @@
 
 
-Mobile controller? [UndeadSec/SocialFishMobile][sf-mobile]
 
-Old version(**Ngrok integrated**) ? [UndeadSec/SociaFish/.../sharkNet][sf-sharknet]
 
 #### SETUP AND RUNNING
 
