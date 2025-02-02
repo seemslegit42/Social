@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
-</a></p>
-<h1 align="center">SocialFish</h1>
 
-Are you looking for SF's mobile controller? [UndeadSec/SocialFishMobile][sf-mobile]
 
-Are you looking for SF's old version(**Ngrok integrated**) ? [UndeadSec/SociaFish/.../sharkNet][sf-sharknet]
+Mobile controller? [UndeadSec/SocialFishMobile][sf-mobile]
+
+Old version(**Ngrok integrated**) ? [UndeadSec/SociaFish/.../sharkNet][sf-sharknet]
 
 #### SETUP AND RUNNING
 
@@ -13,22 +10,11 @@ Visit the [wiki](https://github.com/UndeadSec/SocialFish/wiki) for more details.
 
 Setup instructions [here](https://github.com/UndeadSec/SocialFish/wiki/Setting-Up-SocialFish).
 
-![Screenshot](https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/screen.png)
-
-#### MAINTAINERS
-
-- **Alisson Moretto**, Twitter: [@UndeadSec][tw-alisson], GitHub: [@UndeadSec][git-alisson]
-- **Vandré Augusto**, Twitter: [@dr1nKoRdi3][tw-drink], GitHub: [@dr1nK0Rdi3][git-drink]
-
-#### DOCS
-
-- **Fernando Bellincanta**, Twitter: [@ErvalhouS][tw-fernando], GitHub: [@ErvalhouS][git-fernando]
-
 ### DISCLAIMER
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the SocialFish is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+The use is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
 
 "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
@@ -48,25 +34,9 @@ You need to run:
 docker compose up
 ```
 
-# CONTRIBUTING
-
-[![Open Source Helpers](https://www.codetriage.com/undeadsec/socialfish/badges/users.svg)](https://www.codetriage.com/undeadsec/socialfish)
-
-We encourage you to contribute to SocialFish! Please check out the [Contributing to SocialFish](https://github.com/UndeadSec/SocialFish/blob/master/CONTRIBUTING.md) guide for guidelines about how to proceed. Join us!
 
 # CONTRIBUTOR CODE OF CONDUCT
 
 This project adheres to No Code of Conduct. We are all adults. We accept anyone's contributions. Nothing else matters.
 
 For more information please visit the [No Code of Conduct homepage](https://github.com/domgetter/NCoC).
-
-[//]: # 'links references'
-[tw-alisson]: https://twitter.com/UndeadSec
-[git-alisson]: https://github.com/UndeadSec
-[tw-drink]: https://twitter.com/Dr1nkOrdi3
-[git-drink]: https://github.com/dr1nk0rdi3
-[sf-mobile]: https://github.com/UndeadSec/SocialFishMobile
-[git-tiago]: https://github.com/tiagorlampert
-[git-fernando]: https://github.com/ErvalhouS
-[tw-fernando]: https://twitter.com/ErvalhouS
-[sf-sharknet]: https://github.com/UndeadSec/SocialFish/releases/tag/sharkNet
